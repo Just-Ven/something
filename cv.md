@@ -27,3 +27,13 @@ function grabDoll(dolls) {
   return bag
 }  
 ```
+
+### Work experience:
+No work experience
+
+### Education:
+* Html, css - [YouTube](https://www.youtube.com/)
+* JavaScript - [learn.javascript.ru](https://learn.javascript.ru/)
+
+### Language:
+English level - A2
