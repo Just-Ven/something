@@ -111,3 +111,22 @@ body {
     font-size: 20px;
     margin: 0px 0px 0px 415px;
 }
+.white-block-main {
+    background-color: white;
+    width: 550px;
+    height: 140px;
+    margin: -170px 0px 0px 400px;;
+}
+
+.example {
+    margin: 25px 0px 0px 415px;
+}
+.githuburl {
+    margin: 15px 0px 0px 415px;
+}
+.nav-list {
+    list-style: none;
+}
+.link :hover {
+    padding: 0;
+}
