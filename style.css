@@ -36,3 +36,25 @@ body {
     color: white;
     font-size: 16px;
 }
+.discord {
+    font-size: 21px;
+    color: white;
+    font-weight: bold;
+    margin: 40px 0px 0px 415px;
+}
+.discordname {
+    font-size: 17px;
+    color: white;
+    margin: 10px 0px 0px 415px;;
+}
+.phone {
+    font-size: 21px;
+    color: white;
+    font-weight: bold;
+    margin: -55px 0px 0px 690px;
+}
+.phone-number {
+    font-size: 17px;
+    color: white;
+    margin: 10px 0px 0px 690px;
+}
