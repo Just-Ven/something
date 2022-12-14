@@ -130,3 +130,22 @@ body {
 .link :hover {
     padding: 0;
 }
+.container-footer {
+    height: 125px;
+    background-color: #f1f5f4;
+}
+.svg {
+    width: 240px;
+    height: 125px;
+    margin: 0px 0px 0px 100px;
+}
+.logo-github {
+    width: 5px;
+    height: 5px;
+    margin: -120px 0px 0px 400px;
+}
+.year {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 27px 0px 0px 600px;
+}
