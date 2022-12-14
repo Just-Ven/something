@@ -19,3 +19,20 @@ body {
 .container-header {
     background-color: #212838;
 }
+.image {
+    width: 100%;
+    margin: 120px 0px 0px 0px;
+    overflow: hidden;
+}
+.name {
+    font-size: 40px;
+    color: white;
+    display: inline-block;
+    margin: 70px 100px 0px 415px;
+}
+.description {
+    margin: -95px 0px 0px 415px;
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+}
