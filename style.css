@@ -19,6 +19,13 @@ body {
 .container-header {
     background-color: #212838;
 }
+.image-block {
+    background-color: #283042;
+    width: 240px;
+    height: 550px;
+    margin: -450px 1000px -100px 100px;
+    overflow: hidden;
+}
 .image {
     width: 100%;
     margin: 120px 0px 0px 0px;
