@@ -36,13 +36,14 @@ body {
     overflow: hidden;
 }
 .name {
-    font-size: 40px;
+    font-size: 38.5px;
     color: white;
     display: inline-block;
-    margin: 70px 100px 0px 415px;
+    line-height: 0.9;
+    margin: 0px 100px 50px 415px;
 }
 .description {
-    margin: -95px 0px 0px 415px;
+    margin: -95px 10000000000px 0px 415px;
     display: inline-block;
     color: white;
     font-size: 16px;
@@ -115,7 +116,7 @@ body {
     background-color: white;
     width: 550px;
     height: 140px;
-    margin: -170px 0px 0px 400px;;
+    margin: -150px 0px 0px 400px;;
 }
 
 .example {
